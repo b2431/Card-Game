@@ -1,0 +1,5 @@
+passive
+-
+
+active
+reduce the attack of a creature on Field by 10

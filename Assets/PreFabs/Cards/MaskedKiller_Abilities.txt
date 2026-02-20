@@ -1,0 +1,6 @@
+passive
+Can Attack twice per turn
+Gains 10 Attack and 10 health everytime it kills a creature
+
+active 
+-

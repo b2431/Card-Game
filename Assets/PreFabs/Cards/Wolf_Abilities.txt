@@ -1,0 +1,5 @@
+passive
+Gains 20 Attack for any other Wolf on your side
+
+active 
+Increase health of one other Wolf on your side by 20
